@@ -1,0 +1,11 @@
+{
+  "org": "Ezibenroc",
+  "repo": "PyRoaringBitMap",
+  "versions": [
+    {
+      "commit": "703a842a211dd551509c9e7846c256960e7fa27f",
+      "tag": "1.0.4",
+      "parsed_at": "2026-11-22T03:36:58.140655+00:00"
+    }
+  ]
+}
