@@ -1,0 +1,7 @@
+[2026-11-22T02:53:29Z] === AST ITERATION 1 START | repo=Ezibenroc/PyRoaringBitMap sha=703a842a ===
+[2026-11-22T02:53:29Z] [iter=1] PHASE START: ast repo=Ezibenroc/PyRoaringBitMap sha=703a842a
+[2026-11-22T02:53:29Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T02:54:56Z] [iter=1] AST chunks built count=1 triples=1008272
+[2026-11-22T02:54:56Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/703a842a211dd551509c9e7846c256960e7fa27f/.complete
+[2026-11-22T02:54:56Z] [iter=1] PHASE END: ast elapsed_s=87 elapsed_min=1.5
+[2026-11-22T02:54:56Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
